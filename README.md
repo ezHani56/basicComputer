@@ -1,4 +1,7 @@
-# basicComputer
+# Implementation of proteus projct 
+- Videol link: https://www.dropbox.com/scl/fi/eowrpbrbvy2piv38vt0gu/proteus-project.mp4?rlkey=v8ftkm3ut6woghe8mj085mdh1&st=teggbmv3&dl=0
+
+# Explination of design basic computer
 ![Image](https://github.com/user-attachments/assets/ad147d75-3f27-4cc3-925d-2f2ff09b0943)
 ![Image](https://github.com/user-attachments/assets/dbb0f6fc-5d28-4a40-aa16-98c9d8031fb8)
 ![Image](https://github.com/user-attachments/assets/6a3080de-6c21-4312-a15c-8112d9d00572)
